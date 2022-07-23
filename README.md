@@ -1,7 +1,7 @@
 # Visualization of Tel-U Virtual Run 2021
 
 <p align="center">
-    <img src="contents/visualization.png" width="640" style="vertical-align:middle">
+    <img src="contents/visualization.png" width="480" style="vertical-align:middle">
 </p>
 
 <h3 align="center"> Visualization with GeoPandas </h3>
